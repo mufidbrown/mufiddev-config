@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Ilham Mufid - Product Owner"
+    email: "ilham@gmail.com"
+  onCallSupport:
+    - (62) 392-4829
+    - (62) 203-0384

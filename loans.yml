@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Ilham Mufid - Developer"
+    email: "ilhammufid@gmail.com"
+  onCallSupport:
+    - (62) 555-1234
+    - (62) 523-1345
